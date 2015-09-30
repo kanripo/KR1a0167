@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易緯通卦驗
-#+DATE: 2015-09-23 09:35:46
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:01:17.562147
+#+PROPERTY: ID KR1a0167
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1a0167_WYG_002-1a>¶
 欽定四庫全書¶
 　易緯通卦驗卷下　　　　漢　鄭康成　注¶
@@ -352,4 +354,3 @@
 (陽四時八節二十四炁各如其分之日數令備為一嵗/備足也復備同義說者以為疑字耳言備或為復人自)¶
 (以為法/度焉)二十四炁其復合於晷應其法皆先復之二日¶
 左同右¶
-

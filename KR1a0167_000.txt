@@ -1,5 +1,5 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易緯通卦驗
-#+DATE: 2015-09-23 09:35:46
-#+PROPERTY: JUAN 0
-
+#+DATE: 2015-08-24 22:01:17.535378
+#+PROPERTY: ID KR1a0167
+#+PROPERTY: BASEEDITION WYG    
